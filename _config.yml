@@ -17,7 +17,7 @@ menu:
   - url: /
     name: Home
   - url: /about/
-    name: About
+    name: Me
   - url: /categories/
     name: Categories
   - url: /speaker-reqs/

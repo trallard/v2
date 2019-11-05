@@ -1,15 +1,35 @@
 ---
 layout: page
-title: About Me
+title: About me
 permalink: /about/
 # image: 
 ---
-<h3 class="font-weight-light">Hello, I’m <span class="font-weight-bold">{{site.author.name}}</span></h3>
+<h4 class="font-weight-light">Developer, Researcher, Data nerd,  Speaker, Advocate, Community builder</h4>
 
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+<br>
+<br>
 
-I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+<h4>Hello y'all </h4>
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+I am Tania.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+I am an expert developer with over a decade of experience, a passion for speaking, teaching, and building healthy, welcoming and inclusive open communities. It is my mission to empower other developers of all backgrounds and experience levels through open-source software.
+
+I also have a track record for getting things done and helping others to succeed. As such, I am an avid mentor and advocate for the open-source, research software engineering and data science communities. 
+I wear way too many hats at the same time, but for now, I am working as a Developer Advocate in Microsoft.
+I am also a visiting Fellow at the Alan Turing Institute and a Trustee for the Society for Research Software Engineering and the UK Python Association. 
+
+I live in beautiful Manchester, UK, where I enjoy doing Olympic weightlifting, drinking craft beer, and reading all the books.
+
+I am available for public speaking, teaching and data science projects mainly for non-profits and open communities.
+I am also happy to feature in podcasts and write for external blogs and publications. If you'd like me to participate in an event of yours, please make sure to check out my speaker requirements page here. 
+
+Reach out if you'd like to chat about anything related to open source, data science (machine learning, deep learning, etc.),
+reproducible science, MLOps and DAtaOps or getting into tech.
+
+<h4>Around the web </h4>
+
+- **Email**: <trallard@bitsandchips.me>
+- **GitHub**: <https://github.com/trallard>
+- **Twitter**: <https://www.twitter.com/ixek>
+- **dev.to**: <https://dev.to/trallard>

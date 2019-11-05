@@ -67,8 +67,8 @@ contact-form: trallard@bitsandchips.me
 # Social links
 social:
   - { icon: "ti-twitter-alt", link: "https://www.twitter.com/ixek" }
-  - { icon: "ti-linkedin", link: "#" }
-  - { icon: "ti-github", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.github.com/trallard" }
+  - { icon: "ti-github", link: "https://www.github.com/trallard" }
 
 #-------------------------------
 # Comment Section (Disqus)

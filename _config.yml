@@ -1,0 +1,126 @@
+---
+#-------------------------------
+# General Site Settings
+
+title: bitsandchips
+logo: logo.png # You can add own logo
+description:
+  Tania's personal blog space, a place for coding, dev, data science, machine learning. Full of
+  love for data and programming.
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "" # The base hostname & protocol for your site, e.g. http://example.com
+
+# Preloader
+preloader: true # To disable preloader change value to false
+
+menu:
+  - url: /
+    name: Home
+  - url: /about/
+    name: About
+  - url: /categories/
+    name: Categories
+  - url: /speaker-reqs/
+    name: Speaker requirements
+  - url: /contact/
+    name: Contact
+
+# *** NOTE ***
+# You can add submenus. For example:
+
+#  menu:
+#  - url: /
+#    name: Home
+#  - url: /travel/
+#    name: Travel
+#     submenu:
+#      - url: /peru/
+#        name: Peru
+# ----------------------------------
+
+layout_home_page: false # Homepage layout ( two layout is available, you can set the another layout by change the value of layout_home_page "true" to "false")
+
+featured-post-slider: false # You can enable or disable the featured-post-slider using true or false values.
+
+#-------------------------------
+# Hero Section
+hero:
+  hero-subtitle: I am a passionate developer focused on scientific computing, open source, machine learning and all things data.
+  hero-banner: banner-img.png # Add your banner image '/assets/images/'
+
+#-------------------------------
+# Author Settings
+author:
+  name: Tania Allard
+
+#-------------------------------
+# Contact Info
+contact:
+  email: trallard@bitsandchips.me
+  address:
+    city: Manchester, UK
+    # street:
+
+# Contact Form
+contact-form: trallard@bitsandchips.me
+
+# Social links
+social:
+  - { icon: "ti-twitter-alt", link: "https://www.twitter.com/ixek" }
+  - { icon: "ti-linkedin", link: "#" }
+  - { icon: "ti-github", link: "#" }
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+#-------------------------------
+# Instagram Feed
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+# userID:
+# accessToken:
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+
+paginate: 10
+paginate_path: "/page/:num"
+future: true
+destination: _site
+
+# Pages Path
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir: tag
+tag_page_layout: tag_page
+tag_permalink_style: pretty
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+highlighter: rouge
+
+sass:
+  style: compressed
+  sass_dir: _sass

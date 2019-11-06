@@ -232,9 +232,10 @@ body {
   }
 }
 
+// lists
 ol,
 ul {
-  list-style-type: disc;
+  list-style-type: none;
   margin: 0px;
 }
 
@@ -242,17 +243,39 @@ ul li{
   font-size: 16px;
 }
 
+
+ul.icon{
+  list-style: none;
+  li {
+        text-indent: -1em;
+        margin-bottom: 0.5em;
+        &::before{
+          content: '';
+          display: inline-block;
+          height: 0.9em;
+          width: 0.9em;
+          background-image: url("../images/hex/hex-gold.svg");
+          background-size: contain;
+          background-repeat: no-repeat;
+          margin-right:0.5em; 
+          }
+      }
+}
+
+// images
 img {
   vertical-align: middle;
   border: 0;
 }
 
+// links
 a,
 a:hover,s
 a:focus {
   text-decoration: none;
   color: $primary-dark;
 }
+
 
 a,
 button,
@@ -267,14 +290,17 @@ select:focus {
   outline: 0;
 }
 
+
 a:hover, a.text-dark:hover {
-  color: $primary-dark !important;
+  // color: $primary-dark !important;
+  border-bottom: 2px solid $primary-dark;
 }
 
 .slick-slide {
   outline: 0;
 }
 
+// sections
 .section {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -289,6 +315,7 @@ a:hover, a.text-dark:hover {
   margin-bottom: 30px;
 }
 
+// background
 .bg-cover {
   background-size: cover;
   background-position: center center;
@@ -342,6 +369,7 @@ a:hover, a.text-dark:hover {
   background: $primary-color !important;
 }
 
+// text style
 .text-primary {
   color: $primary-color !important;
 }
@@ -361,6 +389,7 @@ a:hover, a.text-dark:hover {
   font-family: $heading-font-family !important;
 }
 
+// padding and margins
 .mb-10 {
   margin-bottom: 10px !important;
 }
@@ -409,6 +438,7 @@ a:hover, a.text-dark:hover {
   overflow: hidden;
 }
 
+// forms
 .form-control {
   border: 0;
   border-bottom: 1px solid $light-gray;
@@ -548,6 +578,7 @@ textarea.form-control {
   bottom: 30px;
 }
 
+// title borders
 .title-border {
   position: relative;
   margin-bottom: 25px;
@@ -604,6 +635,7 @@ textarea.form-control {
   }
 }
 
+// pagination
 .pagination .page-item .page-link:hover {
   color: #000000;
   background-color: transparent;
@@ -864,6 +896,8 @@ blockquote {
   padding: 2px 5px;
   color: #000000;
 }
+
+// pre-code
 
 pre {
     font-family: $mono-font;

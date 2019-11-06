@@ -3,10 +3,12 @@
 </div>
 <div align="center">
 	<h1>Tania's personal website - v2</h1>
+
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/4ff9f19c-f79b-40d8-abc4-9b703f153f92/deploy-status)](https://app.netlify.com/sites/lucid-lichterman-a790c8/deploys)
 	
 </div>
 
-The second iteration of my personal blog <bitsandchips.me> buildt with Jekyll and hosted with Netlify.
+The second iteration of my personal blog <https://www.bitsandchips.me> built with [Jekyll](https://jekyllrb.com/) and hosted with [Netlify](https://www.netlify.com/).
 
 ## 🛠 Installation and set up
 

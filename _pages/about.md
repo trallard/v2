@@ -27,9 +27,11 @@ I am also happy to feature in podcasts and write for external blogs and publicat
 Reach out if you'd like to chat about anything related to open source, data science (machine learning, deep learning, etc.),
 reproducible science, MLOps and DAtaOps or getting into tech.
 
+---
+
 <h4>Around the web </h4>
 
 - **Email**: <trallard@bitsandchips.me>
-- **GitHub**: <https://github.com/trallard>
+- **GitHub**: <https://www.github.com/trallard>
 - **Twitter**: <https://www.twitter.com/ixek>
-- **dev.to**: <https://dev.to/trallard>
+- **dev.to**: <https://www.dev.to/trallard>

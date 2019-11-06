@@ -239,7 +239,7 @@ ul {
 }
 
 ul li{
-  font-size: $font-size;
+  font-size: 16px;
 }
 
 img {
@@ -358,7 +358,7 @@ a:hover, a.text-dark:hover {
 }
 
 .font-secondary {
-  font-family: "hanskendrick" !important;
+  font-family: $heading-font-family !important;
 }
 
 .mb-10 {
@@ -866,6 +866,6 @@ blockquote {
 }
 
 pre {
-    font-family: "IBM Plex Mono","Liberation Mono","Courier New",monospace;
+    font-family: $mono-font;
     font-size: 100%;
 }

@@ -2,7 +2,7 @@
 <div class="col-lg-4">
   <div class="widget search-box">
     <form action="/search.html" method="get">
-      <i class="ti-search"></i>
+      <i class="fas fa-search"></i>
       <input type="search" id="search-box" class="form-control border-0 pl-5" name="query" placeholder="Search">
     </form>
   </div>
@@ -15,7 +15,7 @@
       </div>
       <div class="media-body">
         <ul class="list-inline d-flex justify-content-between mb-2">
-          <li class="list-inline-item">Post By {{site.author.name | split: ' ' | first}}</li>
+          <!-- <li class="list-inline-item">Post By {{site.author.name | split: ' ' | first}}</li> -->
           <li class="list-inline-item">{{post.date | date: "%B %-d, %Y"}}</li>
         </ul>
         <h6><a class="text-dark" href="{{ post.url }}">{{ post.title }}</a></h6>

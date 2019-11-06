@@ -22,7 +22,7 @@ I am also a visiting Fellow at the Alan Turing Institute and a Trustee for the S
 I live in beautiful Manchester, UK, where I enjoy doing Olympic weightlifting, drinking craft beer, and reading all the books.
 
 I am available for public speaking, teaching and data science projects mainly for non-profits and open communities.
-I am also happy to feature in podcasts and write for external blogs and publications. If you'd like me to participate in an event of yours, please make sure to check out my speaker requirements page here. 
+I am also happy to feature in podcasts and write for external blogs and publications. If you'd like me to participate in an event of yours, please make sure to check out my [speaker requirements page]({{ site.baseurl }} /speaker-reqs).
 
 Reach out if you'd like to chat about anything related to open source, data science (machine learning, deep learning, etc.),
 reproducible science, MLOps and DAtaOps or getting into tech.

@@ -21,7 +21,7 @@ You can now edit and modify the website on your local computer.
 | Color        | Hex                                                                |
 | ------------ | ------------------------------------------------------------------ |
 | Cold purple  | ![#C2B4D6](https://via.placeholder.com/10/C2B4D6?text=+) `#C2B4D6` |
-| Governor bay | ![#504d95](https://via.placeholder.com/10/504d95?text=+) `#504d95` |
+| Governor bay | ![#615e9f](https://via.placeholder.com/10/615e9f?text=+) `#615e9f` |
 | Golden Sand  | ![#f2c76e](https://via.placeholder.com/10/f2c76e?text=+) `#f2c76e` |
 | Deep blush   | ![#e96a80](https://via.placeholder.com/10/e96a80?text=+) `#e96a80` |
 

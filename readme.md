@@ -1,19 +1,31 @@
 <div align="center">
+  <img alt="Logo" src="./assets/images/logos/logo-100.png" width="100" />
+</div>
+<div align="center">
 	<h1>Tania's personal website - v2</h1>
 	
 </div>
 
-## About 
+The second iteration of my personal blog <bitsandchips.me> buildt with Jekyll and hosted with Netlify.
 
-This website is Tania Allard's own personal site. 
+## 🛠 Installation and set up
 
-## Deployment
+You will need to have Ruby and Jekyll installed. You can see the installation instructions on the [Jekyll official docs](https://jekyllrb.com/docs/installation/).
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+Once you have Jekyll installed, type on your command line`bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
 
+You can now edit and modify the website on your local computer.
 
-## Licensing
+## 🎨 Color Reference
+
+| Color        | Hex                                                                |
+| ------------ | ------------------------------------------------------------------ |
+| Cold purple  | ![#C2B4D6](https://via.placeholder.com/10/C2B4D6?text=+) `#C2B4D6` |
+| Governor bay | ![#504d95](https://via.placeholder.com/10/504d95?text=+) `#504d95` |
+| Golden Sand  | ![#f2c76e](https://via.placeholder.com/10/f2c76e?text=+) `#f2c76e` |
+| Deep blush   | ![#e96a80](https://via.placeholder.com/10/e96a80?text=+) `#e96a80` |
+
+## 📃 Licensing
 - The text is licensed using the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 - The code is licensed using the [BSD 3-clause license](https://opensource.org/licenses/BSD-3-Clause)
 

@@ -23,6 +23,7 @@ To contact me for speaking opportunities you can email <trallard@bitsandchips.me
 <li> Have an enforceable Code of Conduct (CoC). You must have clearly defined methods for dealing with conflicts when they arise with trained staff to address conflicts and be prepared to handle complaints appropriately. CoCs are only as good as their enforcement. </li>
 <li>All areas that are part of the conference should be accessible (attendee seating, stage, social events). Even if you think this might not be necessary - remember folks decide to not self-identify.</li>
 </ul>
+<li> Retain intellectual property and ownership of my content. I always start my talk by indicating the license and allowed usage for the materials which also ensures I am correctly attributed and acknowledged for my work and effort.</li>
 
 ---
 
@@ -44,7 +45,6 @@ These are nice to have at your event, and I really encourage you to consider the
 ##### Intellectual property
 
 <ul class='icon'>
-<li> Retain intellectual property and ownership of my content. I always start my talk by indicating the license and allowed usage for the materials which also ensures I am correctly attributed and acknowledged for my work and effort.</li>
 <li>No censorship of my content, written, verbal, visual - if dealing with sensitive content I will check in first with the organisers.</li>
 <li>I will allow video recordings/live streams so long as they are accessible (captioned) and free (no paywalls!).</li>
 <li>It is super difficult to get your set up right to do dope code demos. I sometimes use my own infrastructure, have special fonts, or have complex environments for demos. I love having the option to use my own computer for presentations.</li>

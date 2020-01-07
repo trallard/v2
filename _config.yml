@@ -8,7 +8,7 @@ description:
   Tania's personal blog space, a place for coding, dev, data science, machine learning. Full of
   love for data and programming.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://bitsandchips.me" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Preloader
 preloader: true # To disable preloader change value to false
@@ -95,7 +95,7 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll/tagging
+  - jekyll-tagging
 
 paginate: 10
 paginate_path: "/page/:num"

@@ -33,9 +33,9 @@
         {% endfor %}
       </ul>
       <form class="form-inline position-relative ml-lg-4" action="/search.html" method="get">
-        <label class="visuallyhidden" for="search-box">Search</label>
+        <label class="sr-only" for="search-box">Search</label>
         <input class="form-control px-0 w-100" type="text" id="search-box" name="query" placeholder="Search">
-        <button class="search-icon" type="submit"><i class="fas fa-search"></i></button>
+        <button class="search-icon" type="submit" aria-label="submit"><i class="fas fa-search"></i></button>
       </form>
     </div>
   </nav>

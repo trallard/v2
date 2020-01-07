@@ -905,8 +905,8 @@ pre {
     font-size: 100%;
 }
 
-
-.visuallyhidden {
+// screen reader only
+.sr-only {
   border: 0;
   clip: rect(0 0 0 0);
   height: 1px;

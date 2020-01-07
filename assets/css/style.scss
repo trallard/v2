@@ -99,7 +99,7 @@ h6, .h6 {
 
 .btn-primary {
   background: $accent-color;
-  color: #fff;
+  color: #121212;
   border: 0;
 }
 
@@ -293,8 +293,7 @@ select:focus {
 
 
 a:hover, a.text-dark:hover {
-  // color: $primary-dark !important;
-  border-bottom: 2px solid $primary-dark;
+  border-bottom: 2px solid $accent-color;
 }
 
 .slick-slide {
@@ -903,4 +902,16 @@ blockquote {
 pre {
     font-family: $mono-font;
     font-size: 100%;
+}
+
+// screen reader only
+.sr-only {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
 }

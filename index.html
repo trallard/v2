@@ -92,10 +92,11 @@ layout: default
         <h2 class="mb-100 title-border-lg">to {{site.author.name}}'s personal site</h2>
         <p class="mb-80 mr-5 text-dark2">{{site.hero.hero-subtitle}}</p>
         <span class="font-secondary text-dark mr-3 mr-sm-5">Follow me:</span>
+        <!-- social media links -->
         <ul class="list-inline d-inline-block mb-5">
           {% for social in site.social %}
           <li class="list-inline-item mx-3"><a href="{{ social.link }}" class="text-dark"><i
-                class="{{ social.icon }}"></i></a></li>
+                class="{{ social.icon }}"></i><span class="sr-only">{{social.network}} profile</span></a></li>
           {% endfor %}
         </ul>
       </div>

@@ -8,6 +8,7 @@
               class="img-fluid"></a>
         </div>
         {% endif %}
+        <!-- location -->
         {% if site.contact.address %}
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <h6>Location</h6>
@@ -17,6 +18,7 @@
           </ul>
         </div>
         {% endif %}
+        <!-- contact details -->
         {% if site.contact %}
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <h6>Get in touch</h6>
@@ -26,13 +28,14 @@
           </ul>
         </div>
         {% endif %}
+        <!-- social networks -->
         {% if site.social %}
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <h6>Follow me</h6>
           <ul class="list-inline d-inline-block">
             {% for social in site.social %}
             <li class="list-inline-item"><a href="{{ social.link }}" class="text-dark" target="_blank"><i
-                  class="{{ social.icon }}"></i></a></li>
+                  class="{{ social.icon }}"></i><span class="sr-only">{{social.network}} profile</span></a></li>
             {% endfor %}
           </ul>
         </div>

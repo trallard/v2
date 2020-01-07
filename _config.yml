@@ -66,13 +66,26 @@ contact-form: trallard@bitsandchips.me
 
 # Social links
 social:
-  - { icon: "fab fa-twitter", link: "https://www.twitter.com/ixek" }
+  - {
+      icon: "fab fa-twitter",
+      link: "https://www.twitter.com/ixek",
+      network: "twitter",
+    }
   - {
       icon: "fab fa-linkedin",
       link: "https://www.linkedin.com/in/taniasanchezmonroy/",
+      network: "linkedin",
     }
-  - { icon: "fab fa-github", link: "https://www.github.com/trallard" }
-  - { icon: "fab fa-dev", link: "https://www.dev.to/trallard" }
+  - {
+      icon: "fab fa-github",
+      link: "https://www.github.com/trallard",
+      network: "github",
+    }
+  - {
+      icon: "fab fa-dev",
+      link: "https://www.dev.to/trallard",
+      network: "dev-to",
+    }
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -95,7 +108,7 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-tagging
+  - jekyll/tagging
 
 paginate: 10
 paginate_path: "/page/:num"

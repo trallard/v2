@@ -6,12 +6,14 @@ image: pyconuk4.jpg
 
 ---
 
-I am an international keynote speaker. I have spoken on community building, data science, machine learning, MLOPs, open-source, reproducible research, and diversity and inclusion with a strong call for ethical and open practices.
+I am an international keynote speaker. I have spoken on community building, data science, machine learning, MLOPs, open-source, reproducible research, and diversity and inclusion with a strong call for ethical and open practices (in community, industrial, and academic contexts)
 I am also experienced and comfortable with workshops and tutorials for all ranges of abilities.
 
-I am always happy to attend and speak at conferences, and I love sharing my knowledge with folks from all backgrounds. I am grateful to all the conference organisers who have brilliantly hosted me. I would like to continue to exercise this privilege to speak at conferences, and use this privilege to make the landscape more accessible and beneficial to tech's most marginalised and suppressed communities.
+I am always happy to attend and speak at conferences, and I love sharing my knowledge with folks from all backgrounds. Speaking commes with a great amount of privilege and I am grateful to all the conference organisers who have brilliantly hosted me over the last few years.
 
-Before I agree to a speaking event, I try to do as much research as possible around the event to ensure it aligns with my ethos. Before asking me to speak at your next event, please read my requirements below. Most thoughtful conferences I've attended check most of these boxes intrinsically, mainly when conference runners are experienced speakers. 
+I would like to continue to exercise this privilege to speak at conferences, and use this privilege to make the landscape more accessible and beneficial to tech's most marginalised and suppressed communities.
+
+Before I agree to a speaking event, I try to do as much research as possible around the event to ensure it aligns with my ethos. Before asking me to speak at your next event, please read my requirements below. Most thoughtful conferences I've attended check most of these boxes intrinsically, mainly when conference runners are experienced speakers.
 
 To contact me for speaking opportunities you can email <trallard@bitsandchips.me>.
 
@@ -21,9 +23,11 @@ To contact me for speaking opportunities you can email <trallard@bitsandchips.me
 <li> Make a best effort to have diverse participants. </li>
 <li>No all white/white-male panels, speaker line-up: in general, I would hope that you can diversify your participation across race, gender identity, expression, and orientation, physical and mental ability, etc., and also recognise panels are usually only a few folks.</li>
 <li> Have an enforceable Code of Conduct (CoC). You must have clearly defined methods for dealing with conflicts when they arise with trained staff to address conflicts and be prepared to handle complaints appropriately. CoCs are only as good as their enforcement. </li>
+<li> Your CoC needs to explicitly call out what behaviours will not be tolerated with clear examples (not limited to). </li>
 <li>All areas that are part of the conference should be accessible (attendee seating, stage, social events). Even if you think this might not be necessary - remember folks decide to not self-identify.</li>
-</ul>
 <li> Retain intellectual property and ownership of my content. I always start my talk by indicating the license and allowed usage for the materials which also ensures I am correctly attributed and acknowledged for my work and effort.</li>
+<li> Have a commitment to ensure attendees and speakers safety - reflected in your CoC.</li>
+</ul>
 
 ---
 

@@ -4,10 +4,9 @@ title: "Easy Data processing with Azure Functions and Python"
 date: 2020-04-24
 description: "Microsoft Azure sponsored workshop for PyCon 2020."
 featured: true
-image: "assets/images/featured-post/pyconworkshop.png"
+image: "assets/images/featured-post/pyconworkshop-1.png"
 categories:
   - "Article"
-  - "Open Source"
 tags:
   - "Machine Learning"
   - "Reproducibility"

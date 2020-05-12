@@ -7,7 +7,6 @@ featured: true
 image: "assets/images/featured-post/banner.png"
 categories:
   - "Article"
-  - "Open Source"
 tags:
   - "Machine Learning"
   - "Reproducibility"
